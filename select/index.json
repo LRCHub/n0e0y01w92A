@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋の前ならえ",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-02-13T03:01:33.369149Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋の前ならえ",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_恋の前ならえ_Official髭男dism.txt"
+    }
+  ]
+}
